@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obayangbon Success
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend
+- 🌱 I’m a fullstack developer
 - 💞️ I’m looking to collaborate on Your team
 - 📫 How to reach me successobayan@gmail.com
 - 😄 Pronouns: ...
