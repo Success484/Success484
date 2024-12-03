@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m a fullstack developer
 - 💞️ I’m looking to collaborate on Your team
-- 📫 How to reach me successobayan@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
